@@ -1,6 +1,6 @@
 # RealTime_LicensePlateDETECTION
 <b>Real-Time license plate detection and recognition can be very useful for automating toll booths, finding out traffic rule breakers, and for addressing other vehicle-related security and safety issues</b>.
-RASPBERRY PI 11 May, 2020 / 0 Comments
+
 Real-Time License Plate Recognition using Raspberry Pi and Python
 Real-Time License Plate Recognition using Raspberry Pi and Python
 Previously we learned about face recognition using Raspberry Pi and OpenCV. Today we will use these two to build a number plate recognition system using python. Real-Time license plate detection and recognition can be very useful for automating toll booths, finding out traffic rule breakers, and for addressing other vehicle-related security and safety issues.
