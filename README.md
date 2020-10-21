@@ -201,4 +201,12 @@ Number Plate Recognition using Raspberry PI
 Real-Time License Plate Recognition using Raspberry Pi
 
 Raspberry Pi Number Plate Recognition Working
+<p><b>#Author :#Humayun Ali Khan #Mammona Aslam</p></b>
+
+<p></b>
+  <p><b>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p></b>
+   <p><b>linkedin: https://pk.linkedin.com/in/theeyeofcyber</p></b>
+   <p><b>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p></b>
+   <img src="https://github.com/TheEyeOfCyber/D0S-81U3K33P/blob/master/20201021_003836_0000.png?raw=true" style="max-width:100%;">
+</p></b>
 
